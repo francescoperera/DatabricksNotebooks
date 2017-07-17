@@ -21,3 +21,10 @@ println("Hi Again")
 
 def subtract(x: Int, y: Int): Int = x - y
 println("new cell")
+
+// COMMAND ----------
+
+println(subtract(5,3))
+
+// COMMAND ----------
+
