@@ -12,11 +12,15 @@ def personalizedHi( name: Option[String]): Unit = {
 
 personalizedHi(None)
 personalizedHi(Some("John"))
-<<<<<<< HEAD
-println("Hello from Sublime")
-println("Hi Again")
-//adding a comment
 
+// COMMAND ----------
+
+def mySum(a: Int, b: Int ): Int = a + b
+
+// COMMAND ----------
+
+val res = mySum(1, 9)
+println(res)
 
 // COMMAND ----------
 
