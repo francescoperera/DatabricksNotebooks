@@ -10,3 +10,8 @@ def personalizedHi( name: Option[String]): Unit = {
 
 // COMMAND ----------
 
+personalizedHi(None)
+personalizedHi(Some("John"))
+
+// COMMAND ----------
+
