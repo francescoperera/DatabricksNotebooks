@@ -6,3 +6,9 @@ def numberGenerator(roof: Int): Int = {
 
 // COMMAND ----------
 
+//this is an example
+val someNum = numberGenerator(10)
+println(someNum)
+
+// COMMAND ----------
+
