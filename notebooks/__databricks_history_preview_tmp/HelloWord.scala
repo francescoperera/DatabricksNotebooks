@@ -15,3 +15,12 @@ personalizedHi(Some("John"))
 
 // COMMAND ----------
 
+def mySum(a: Int, b: Int ): Int = a + b
+
+// COMMAND ----------
+
+val res = mySum(1, 9)
+println(res)
+
+// COMMAND ----------
+
