@@ -19,3 +19,5 @@ println("Hi Again")
 
 // COMMAND ----------
 
+def subtract(x: Int, y: Int): Int = x - y
+println("new cell")
