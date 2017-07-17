@@ -12,7 +12,6 @@ def personalizedHi( name: Option[String]): Unit = {
 
 personalizedHi(None)
 personalizedHi(Some("John"))
-<<<<<<< HEAD
 println("Hello from Sublime")
 println("Hi Again")
 //adding a comment
